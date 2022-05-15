@@ -12,6 +12,11 @@ Today’s car wipers are manual systems that work on the principle of manual swi
 ![MODEL OF WIPER CONTROL SYSTEM1](https://user-images.githubusercontent.com/91199828/168461448-261122ef-a392-4268-b180-ffd1e95c1143.gif) 
 
 Our integrated circuits and reference designs for automotive wiper modules accelerate your design using high-performance motor drivers for brushed or brushless direct current (BLDC) motors to provide intelligent drive capabilities with enhanced diagnostics for robust motion control systems.
+
+# FLOW CHART
+![FLOW CHART1](https://user-images.githubusercontent.com/91199828/168482781-9aebf58e-759b-4a6d-99d1-609421f3fd0e.png)
+
+
 # STRUCTURAL DAIGRAM
 ![STRUCTURAL DAIGRAM OF WIPER CONTROL SYTEM](https://user-images.githubusercontent.com/91199828/168461708-16e3ddc8-b1ca-44c9-8917-82d40a4a357c.png)
 
@@ -58,6 +63,10 @@ is useful for wiper mechanism.
 ![Model](https://user-images.githubusercontent.com/91199828/168462928-fdb01e3e-5e8c-4ae7-bc81-c07f9e9b3239.jpg)
 
 Wipers are designed and manufactured to remove water from a windshield. Most automobiles feature two windshield wipers, as well as one on the back window and one on each headlight. The rubber blade, the wiper arm that holds the blade, a spring linkage, and portions of the wiper pivots are all visible from the exterior of the automobile. Under the wiper, there are up to six pieces called pressure points or claws, which are little arms. The claws spread the wiper's pressure along the blade's back. The wiper is the beam, and the claws are the suspension components, therefore this is a balancing beam with a suspension system. The claws keep the blade flexed against the windshield, distributing uniform pressure across the blade to clean the glass evenly. Large or strongly curved windshields benefit from more claws because they effectively disperse pressure.
+
+### SIMULATION
+![Simulation Design](https://user-images.githubusercontent.com/91199828/168482668-49ff08a4-0ccf-4c3a-ae37-8a96aa663130.png)
+
 
 
 
